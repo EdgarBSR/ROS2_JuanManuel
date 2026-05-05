@@ -1,4 +1,4 @@
-# TE3003B Módulo 3 · Actividad M3.4
+# TE3003B Módulo 3
 
 Autonomous navigation project for the Puzzlebot (Jetson Lidar Edition) using ROS 2 Humble and Gazebo Classic. Includes SLAM-based mapping and Nav2-based autonomous navigation over a custom maze environment.
 
